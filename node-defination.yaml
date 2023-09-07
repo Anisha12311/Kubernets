@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Node
+metadata:
+  name: node01
+  labels:
+    tier: front-end
+     
